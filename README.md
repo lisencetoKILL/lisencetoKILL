@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/lisencetoKILL">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=✨+Hey!+I'm+Vedant+Navthale;Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=✨+Hey!+I'm+Jay+Makwana;Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" 
       alt="Typing SVG" 
     />
   </a>
@@ -12,8 +12,7 @@
 
 ✨ I’m **Jay Makwana**, a **Final-Year Computer Engineering Student** at *NHITM, India*, building **scalable software** and exploring **AI-driven innovations**.
 
-- 🌟 Passionate about **AI/ML & Web Development**  
-- 🎓 **Google Student Ambassador (2025)**  
+- 🌟 Passionate about **AI/ML & Web Development**
 - 👥 **CSI Member (2025)**
 - 🏆 **National Level Startup Competition – 2nd Runner-Up** (APCOER College, 2023)
 - 📈 Aspiring Software Engineer
