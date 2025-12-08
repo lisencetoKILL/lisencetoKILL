@@ -52,29 +52,16 @@
 
 ##  **LeetCode Info**
 <div align="center">
-  <a href="https://leetcode.com/vednav9/">
+  <a href="https://leetcode.com/jaypmakwana007/">
     <img src="https://assets.leetcode.com/static_assets/marketing/202511.gif" height="200" width="200" />
   </a>
-  <a href="https://leetcode.com/vednav9/">
+  <a href="https://leetcode.com/jaypmakwana007/">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="200" width="200" />
   </a>
 </div>
 
 ---
 
-##  **GitHub Stats**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lisencetoKILL&show_icons=true&theme=react&rank_icon=github&border_radius=12&hide_border=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisencetoKILL&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=12&hide_border=true" height="180" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=lisencetoKILL&theme=react&border_radius=12&hide_border=true" height="180" />
-
-</div>
 
 
 ---
