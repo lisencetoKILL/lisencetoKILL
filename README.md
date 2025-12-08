@@ -13,12 +13,12 @@
 
 ---
 
-## 🚀 **About Me**
-- 🧑‍💻 Full-Stack Developer (**MERN + PHP + Flutter**)  
-- 🤖 AI/ML & System Design Enthusiast  
-- 👥 Member of **CSI & BIS**  
-- 🛠️ Love solving real-world problems through tech  
-- 🎯 Aspiring **Software Engineer** with strong analytical skills  
+##  **About Me**
+-  Full-Stack Developer (**MERN + PHP + Flutter**)  
+-  AI/ML & System Design Enthusiast  
+-  Member of **CSI & BIS**  
+-  Love solving real-world problems through tech  
+-  Aspiring **Software Engineer** with strong analytical skills  
 
 ---
 
@@ -26,11 +26,11 @@
 
 <p align="center">
 
-🌐 **Languages**  
+ **Languages**  
 <br/>
 <img src="https://skillicons.dev/icons?i=js,java,python,php,c,cpp" />
 
-🎨 **Frontend**  
+ **Frontend**  
 <br/>
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
 
@@ -50,7 +50,7 @@
 
 ---
 
-## 🧩 **LeetCode Info**
+##  **LeetCode Info**
 <div align="center">
   <a href="https://leetcode.com/vednav9/">
     <img src="https://assets.leetcode.com/static_assets/marketing/202511.gif" height="200" width="200" />
@@ -62,7 +62,7 @@
 
 ---
 
-## 📊 **GitHub Stats**
+##  **GitHub Stats**
 
 <div align="center">
 
@@ -76,12 +76,6 @@
 
 </div>
 
----
-
-## 🏆 **GitHub Trophy**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lisencetoKILL&theme=algolia&margin-w=10&margin-h=10&row=1&column=7" />
-</p>
 
 ---
 
