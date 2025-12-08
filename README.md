@@ -1,21 +1,17 @@
 <!-- Typing SVG -->
-<p align="center">
-  <a href="https://github.com/lisencetoKILL">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=✨+Hey!+I'm+Jay+Makwana;Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" 
-      alt="Typing SVG" 
-    />
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/lisencetoKILL"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=✨+Hey!+I'm+Jay+Makwana;Software+Engineer;Full+Stack+Developer;AI%2FML+Enthusiast;Tech+Innovator" alt="Typing SVG" /> </a> </p>
 
 ---
 
-✨ I’m **Jay Makwana**, a **Final-Year Computer Engineering Student** at *NHITM, India*, building **scalable software** and exploring **AI-driven innovations**.
+I’m Jay Makwana, a Final-Year Computer Engineering Student at NHITM, India, passionate about building scalable software, intelligent systems, and automation tools.
 
-- 🌟 Passionate about **AI/ML & Web Development**
-- 👥 **CSI Member (2025)**
-- 🏆 **National Level Startup Competition – 2nd Runner-Up** (APCOER College, 2023)
-- 📈 Aspiring Software Engineer
+💻 Full-Stack Developer (MERN + PHP + Flutter)
+
+🤖 Interested in AI/ML, automation & system design
+
+👥 Member of CSI & BIS
+
+🚀 Aspiring Software Engineer | Problem Solver
 
 <!--
 ### Beyond Tech  
@@ -23,30 +19,29 @@ Playing guitar | Lifelong learner | Creative explorer
 ---
 -->
 
-## ⚡ Tech Stack  
-
+⚡ Tech Stack
 <p align="center">
-  
-  **Languages**  
-  <br/>
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,c" />
-  
-  **Frontend**  
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-  
-  **Backend**  
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-  
-  **Databases & Cloud**  
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite,aws,gcp,azure" />
-  
-  **Tools & Others**  
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
-  
+
+Languages
+<br/>
+<img src="https://skillicons.dev/icons?i=js,java,python,php,c,cpp" />
+
+Frontend
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+
+Backend & Frameworks
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+
+Databases & Cloud
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+
+Tools & Others
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,arduino" />
+
 </p>
 
 ---
@@ -66,28 +61,8 @@ Playing guitar | Lifelong learner | Creative explorer
 
 ---
 
-## GitHub Stats  
-<div align="center">
-  <h2 align="center">⚡ Current Statistics ⚡</h2>
-  <!-- Row 1: Stats + Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vednav9&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
-    alt="GitHub Stats" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednav9&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
-    alt="Top Languages" 
-    height="180"
-  />
-  <!-- Row 2: Streak Stats -->
-  <br/>
-  <img 
-    src="https://streak-stats.demolab.com/?user=vednav9&count_private=true&theme=react&border_radius=10" 
-    alt="GitHub Streak" 
-    height="180"
-  />
-</div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lisencetoKILL&show_icons=true&theme=react&rank_icon=github&border_radius=10" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisencetoKILL&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" height="180" /> <br/> <img src="https://streak-stats.demolab.com/?user=lisencetoKILL&count_private=true&theme=react&border_radius=10" height="180" /> </div>
 
 <br>
 
@@ -97,10 +72,5 @@ Playing guitar | Lifelong learner | Creative explorer
 
 ---
 
-## Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vedantnavthale/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/vednav9"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://leetcode.com/vednav9/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
+🤝 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/jaymakwana007/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a> <a href="https://github.com/lisencetoKILL"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a> <a href="mailto:jaypmakwana007@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a> </p>
