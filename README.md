@@ -50,18 +50,6 @@
 
 ---
 
-##  **LeetCode Info**
-<div align="center">
-  <a href="https://leetcode.com/jaypmakwana007/">
-    <img src="https://assets.leetcode.com/static_assets/marketing/202511.gif" height="200" width="200" />
-  </a>
-  <a href="https://leetcode.com/jaypmakwana007/">
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" height="200" width="200" />
-  </a>
-</div>
-
----
-
 
 
 ---
