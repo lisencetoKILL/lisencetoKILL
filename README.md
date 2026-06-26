@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineering;AI-Powered+Applications;FastAPI+%7C+Node.js+%7C+React;Distributed+Systems+Enthusiast;Building+Software+That+Scales"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Engineering;AI-Powered+Applications;FastAPI+%7C+Node.js+%7C+React;Building+Software+That+Scales"/>
 </p>
 
 <p align="center">
@@ -38,22 +38,11 @@ Currently exploring Distributed Systems, System Design, and LLM-powered applicat
 
 ---
 
-## Currently Working On
-
-```txt
-→ AI-Powered Educational Platform (CORTEXA)
-→ Semantic Search & RAG Systems
-→ Backend Architecture & API Design
-→ Distributed Systems & Scalability
-```
-
----
-
 ## GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lisencetoKILL&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=lisencetoKILL&show_icons=true&theme=tokyonight&hide_border=true"/> -->
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisencetoKILL&layout=compact&theme=tokyonight&hide_border=true"/>
 
