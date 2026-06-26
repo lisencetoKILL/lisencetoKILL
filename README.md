@@ -1,5 +1,5 @@
 <!-- ===================================================== -->
-<!--                     JAY MAKWANA                        -->
+<!--                     HERO SECTION                      -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -11,21 +11,19 @@ Hi 👋 I'm Jay Makwana
 </h1>
 
 <h3 align="center">
-Building scalable software • AI-powered applications • Backend systems
+Software Engineer • Backend Developer • AI Enthusiast
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&duration=3000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Backend+Developer;Full+Stack+Developer;Building+Scalable+Backend+Systems;Developing+AI-Powered+Applications;FastAPI+%7C+Node.js+%7C+React;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&duration=3000&color=00C2FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Systems;Developing+AI-Powered+Applications;FastAPI+%7C+Node.js+%7C+React;RAG+%7C+Microservices+%7C+Cloud;Always+Learning+Something+New+🚀"/>
 
 </p>
-
----
 
 <p align="center">
 
 <a href="mailto:jaypmakwana007@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/jaymakwana007">
@@ -48,44 +46,37 @@ Building scalable software • AI-powered applications • Backend systems
 
 # 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
 ```yaml
 Name: Jay Makwana
 
-Location: Mumbai, India
-
 Role: Software Engineer
 
+Location: Mumbai, India
+
 Education:
-  BE Computer Engineering
+  Bachelor of Engineering
+  Computer Engineering
 
-Currently Working On:
-  - AI Applications
-  - Backend Systems
-  - Microservices
-  - RAG
-  - FastAPI
-
-Learning:
+Interests:
+  - Backend Engineering
+  - AI Systems
   - Distributed Systems
-  - Docker
+  - Cloud Computing
+
+Currently Learning:
   - Kubernetes
   - System Design
-
-Looking For:
-  Software Engineer
-  Backend Developer
-  Full Stack Developer
+  - LLM Engineering
+  - Scalable Architectures
 ```
 
 ### 🚀 What I Do
 
-- 💻 Build scalable backend systems using **Node.js** and **FastAPI**
-- 🤖 Develop AI-powered applications using **RAG**, **LangChain**, and **LLMs**
-- 📱 Create responsive web and mobile applications with **React** and **React Native**
+- 💻 Build scalable backend systems using Node.js and FastAPI
+- 🤖 Develop AI-powered applications using RAG, LangChain and LLMs
+- 📱 Create full-stack applications using React and modern web technologies
 - ⚙️ Design production-ready REST APIs and microservices
-- 🚀 Optimize performance, automate workflows, and solve real-world engineering problems
+- 🚀 Love solving real-world engineering challenges
 
 ---
 
